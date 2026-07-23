@@ -1,0 +1,1 @@
+@import 'tailwindcss/base'; @import 'tailwindcss/components'; @import 'tailwindcss/utilities'; * {margin: 0; padding: 0; box-sizing: border-box;} body {font-family: 'Inter', sans-serif; background-color: #0f172a; color: #f3f4f6;}
